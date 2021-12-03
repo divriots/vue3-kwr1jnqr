@@ -1,0 +1,14 @@
+{
+  "name": "@components-studio/gqio.vue3-kwr1jnqr",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve ok9qp05rx8SwrDOVpMqp --open"
+  },
+  "dependencies": {
+    "vue": "next"
+  }
+}
